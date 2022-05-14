@@ -1,1 +1,4 @@
 # week_3-Challenge
+This is my week_3 Challenge assignment. 
+I first declared arrays of characters that can be used in creating password.
+Then, I made a function generatePassword. In the function 'generatePassword', I aksed user to choose the password criteria by putting a letter listed in prompt. User can choose lowercase leeter by typing 'a', uppercase letter by typing 'b', number letter by typing 'c' and special letter by typing 'd'. I also set quit option 'q'. User should select at least one letter to create a password. If user choose to put all 4 types of letter or quit, it will ask the length of password. With the given length of password by user, the program generate random letter from randomly selected given criteria.
